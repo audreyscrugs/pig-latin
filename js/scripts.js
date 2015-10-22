@@ -8,3 +8,4 @@ var isVowel = function(string) {
     return string + consonant + "ay"
   }
 }
+//Try looping through an array to pig latinize words that start with various numbers of consonants
